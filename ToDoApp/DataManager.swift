@@ -3,7 +3,7 @@
 //  ToDoApp
 //
 //  Created by macOS High Sierra on 20/11/18.
-//  Copyright © 2018 vitex vegundo. All rights reserved.
+//  Copyright © 2018 Hasmot Ali Hasu. All rights reserved.
 //
 
 import Foundation
